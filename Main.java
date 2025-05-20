@@ -11,6 +11,10 @@ public class Main {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//probando clase pedido
+		Articulo pedido = new Pedido(1);		
+		
 		int opcion;
 		do {
 			System.out.println("\n--- Menu de Articulos ---");
