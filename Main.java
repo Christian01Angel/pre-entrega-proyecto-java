@@ -10,10 +10,7 @@ public class Main {
 	
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		//probando clase pedido
-		Articulo pedido = new Pedido(1);		
+		// TODO Auto-generated method stub	
 		
 		int opcion;
 		do {
